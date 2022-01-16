@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">menu_fragment</string>
+    <string name="title_four">четвертый</string>
+    <string name="title_five">пятый</string>
+    <string name="title_three">третий</string>
+    <string name="title_two">второй</string>
+    <string name="title_one">первый</string>
+    <string name="text_5">Five</string>
+    <string name="text_4">Four</string>
+</resources>
